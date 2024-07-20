@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+.caja1{
+    background-color: black;
+    height: 50px;
+}
+
+.caja2 {
+    background-color: black;
+    height: 800px;
+    width: 900px;
+}
+
+.caja3 {
+    background-color: black;
+    height: 2500px;
+}
+
+.video {
+    height: 900px;
+    width: 700px;
+}
+
+.btn-1 {
+    border-radius: 50%;
+  background-color: pink;  
+}
+
+.btn-2 {
+    border-radius: 45%;
+}
+
+.btn-3 {
+    border-radius: 45%;
+    
+}
+
+.btn-4 {
+    border-radius: 45%;
+    
+}
+
+.btn-5 {
+    border-radius: 50%;
+   
+}
+
+.MilaRodriguez {
+    font-size: small;
+}
+
+.K {
+    font-size: small;
+
+}
+
+.M {
+    font-size: small;
+}
+
+.B {
+    font-size: small;
+}
+
+.b1 {
+    border-radius: 45%;
+}
+
+.b2 {
+    border-radius: 45%;
+}
+
+.punto1 {
+    font-size: small;
+}
+
+.punto2 {
+    font-size: small;
+}
+
+.punto3 {
+    font-size: small;
+}
